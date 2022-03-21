@@ -32,4 +32,4 @@ class Admin_auth extends Controller
 		
 		
 	}
-}}
+}
