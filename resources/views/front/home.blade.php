@@ -2,7 +2,7 @@
 
 @section('page_title','Home Page')
 
-@section('page_name','My First Blog')
+@section('page_name','My Interview Blog')
 
 @section('container')
     @foreach($result as $list)
